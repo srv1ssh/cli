@@ -1,8 +1,6 @@
 module github.com/cli/cli/v2
 
-go 1.24.0
-
-toolchain go1.24.6
+go 1.24.9
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
@@ -49,7 +47,7 @@ require (
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.11.1
-	github.com/theupdateframework/go-tuf/v2 v2.2.0
+	github.com/theupdateframework/go-tuf/v2 v2.3.0
 	github.com/vmihailenco/msgpack/v5 v5.4.1
 	github.com/yuin/goldmark v1.7.13
 	github.com/zalando/go-keyring v0.2.6
