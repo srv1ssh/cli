@@ -54,7 +54,7 @@ require (
 	github.com/yuin/goldmark v1.7.13
 	github.com/zalando/go-keyring v0.2.6
 	golang.org/x/crypto v0.42.0
-	golang.org/x/sync v0.17.0
+	golang.org/x/sync v0.18.0
 	golang.org/x/term v0.35.0
 	golang.org/x/text v0.29.0
 	google.golang.org/grpc v1.75.0
